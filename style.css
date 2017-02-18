@@ -1,0 +1,194 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.a{
+	/*border: 2px solid black;*/
+	height: 1200px;
+	width: 45%;
+	float: left;
+	margin-left: 2%;
+}
+
+.b{
+	/*border: 2px solid black;*/
+	height: 1200px;
+	width: 52%;
+	float: right;
+}
+
+.k{
+	margin: 0 auto;
+	font-family: sans-serif;
+	margin-top: 3%;
+}
+
+.k h1{
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.k h2{
+	margin-top: -2%;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.k h3{
+	margin-top: -3%;
+	font-size: 10px;
+	font-weight: normal;
+}
+.surname{
+	/*border: 2px solid black;*/
+	height: 300px;
+	width: 97%;
+	text-align: center;
+}
+
+.profile{
+	/*border: 2px solid black;*/
+	height: 300px;
+	width: 97%;
+}
+
+#qwer{
+	margin-left: 2%;
+}
+
+.profile h4{
+	color: rgb(10,176,206);
+	font-weight: bolder;
+	font-size: 30px;
+	margin-left: 14%;
+	margin-top: -8%;
+}
+
+.contact{
+	/*border: 2px solid black;*/
+	height: 300px;
+	width: 97%;
+}
+
+#qwe{
+	margin-left: 2%;
+}
+
+.contact h1{
+	font-size: 25px;
+	margin-left:13%;
+	margin-top: -7%;
+	color: rgb(10,176,206);
+}
+
+.contact h2{
+	color: rgb(10,176,206);
+	margin-top: 5%;
+}
+
+.contact h3{
+		margin-left:34%;
+	margin-top: -49%;
+	font-size: 16px;
+}
+
+.skills{
+	/*border: 2px solid black;*/
+	height: 290px;
+	width: 97%;
+}
+
+.skills h1{
+	color: rgb(10,176,206);
+	font-size: 25px;
+	margin-left:16%;
+	margin-top: -12%;
+}
+
+.skills h2{
+	text-align: center;
+	color: rgb(10,176,206);
+	font-size: 20px;
+}
+
+.education{
+/*	border: 2px solid black;*/
+	height: 400px;
+	width: 97%;
+}
+
+.education h1{
+	color: rgb(10,176,206);
+	font-size: 30px;
+	margin-left:16%;
+	margin-top: -8%;
+
+}
+
+#t{
+	margin-top: -2%;
+	color: rgb(10,176,206);
+	font-weight: bolder;
+}
+
+#t p{
+	color: black;
+}
+
+.experience{
+	/*border: 2px solid black;*/
+	height: 400px;
+	width: 97%;
+}
+
+.experience h1{
+	color: rgb(10,176,206);
+	font-size: 30px;
+	margin-left:16%;
+	margin-top: -8%;
+
+}
+
+#f{
+	font-weight: bold;
+}
+
+#f p{
+	font-weight: normal;
+}
+
+.software{
+	/*border: 2px solid black;*/
+	margin-top: 8%;
+	height: 380px;
+	width: 97%;
+}
+
+.software h1{
+	color: rgb(10,176,206);
+	font-size: 30px;
+	margin-left:16%;
+	margin-top: -8%;
+	}
+
+.software h2{color: rgb(10,176,206);
+	margin-top: 12%;
+	margin-left: 10%;
+}
+
+#p{
+	margin-left: 2%;
+}
+
+.software h3{color: rgb(10,176,206);
+	margin-left: 60%;
+	margin-top: -39%;
+	font-size: 25px;
+}
+
+.wrapper{
+	width: 980px;
+	height: 1300px;
+	margin: 0 auto;
+}
